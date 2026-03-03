@@ -28,7 +28,7 @@ NetScan is a single-file HTML/CSS/JavaScript tool that lets you discover devices
 
 ## How to Use
 
-1. Open `network-scanner.html` in any modern browser (Chrome recommended)
+1. Open `https://flandreiii.github.io/Netscan-for-web` in any modern browser (Chrome recommended)
 2. The subnet is auto-detected on load — or enter it manually (e.g. `192.168.1`)
 3. Choose a **Scan Mode**:
    - **Fast** — probes ports 80, 443, 8080, 8443
